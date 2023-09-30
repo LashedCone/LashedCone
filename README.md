@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @LashedCone
+- 👀 I’m interested in Programming and gaming.
+- 🌱 I’m currently learning programming in Java
+- 📫 How to reach me:
+- email: tasso96@gmail.com
+- discord: LashedCone#3239
+- LinkedIn: https://www.linkedin.com/in/giuseppe-tassone-697682132/
