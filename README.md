@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LashedCone
 - 👀 I’m interested in Programming and gaming.
-- 🌱 I’m currently learning:
+- 🌱 I’m currently coding with:
 - //Java:
 - -- MySQL:
 - @Spring
